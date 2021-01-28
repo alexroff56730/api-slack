@@ -11,6 +11,6 @@ $a = "<html>
                 </p>
             </div>
         </body>
-    </html>"
+    </html>";
 
 echo($a);
