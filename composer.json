@@ -1,0 +1,11 @@
+{
+    "name": "alexroff/api-slack",
+    "description": "un super projet",
+    "authors": [
+        {
+            "name": "timote56",
+            "email": "alexandreroffiaen@gmail.com"
+        }
+    ],
+    "require": {}
+}
