@@ -4,9 +4,9 @@ echo("<html>
         <head>
             <tite>POUSSIIIN</titre>
         </head>
-        <body style='background-color:black;'>
+        <body style='background-color:black; color:white;'>
             <div>
-                <p style='color=white;'>
+                <p>
                     je t'aime poussin ! 
                 </p>
             </div>
