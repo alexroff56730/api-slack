@@ -3,4 +3,4 @@
 $a = "fuck";
 $b = "you";
 
-echo($a . $b);
+echo($a . " " . $b);
