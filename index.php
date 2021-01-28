@@ -1,3 +1,6 @@
 <?php
 
-echo('fils de pute !!! ');
+$a = "fuck";
+$b = "you";
+
+echo($a . $b);
